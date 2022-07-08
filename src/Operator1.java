@@ -11,7 +11,7 @@ public static void main (String []args) {
 	
 	count = 0;
 	
-	count = ++count;
+	count = ++count;ㅇ
 	
 	++count;//선행
 	count++;//후행
